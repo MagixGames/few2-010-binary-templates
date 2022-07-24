@@ -407,11 +407,17 @@ typedef enum <ushort> CLASSES
     DarkFlier,
     Valkyrie,
     Archbishop,
-    NPC,
+    Avesta,
     Prionsa,
     Gurgan,
     Asura,
-    Silverheart
+    Silverheart,
+    DummySwordClass,
+    DummyLanceClass,
+    DummyAxeClass,
+    DummyBowClass,
+    DummyGauntletClass,
+    DummyMagicClass,
 }Classes;
 
 typedef enum <ushort> ARTS
